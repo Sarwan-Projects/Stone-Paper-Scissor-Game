@@ -5,8 +5,8 @@ A simple and interactive **Stone-Paper-Scissors** game built using **HTML, CSS, 
 ## 📁 Project Structure
 
 ├── Images/ # Folder containing image assets 
- ├── paper.png
- ├── rock.png  
+ └── paper.png
+ └── rock.png  
  └── scissor.png
 ├── Paper.css # CSS file for styling the UI 
 ├── Rock.html # Main HTML file for game interface 
