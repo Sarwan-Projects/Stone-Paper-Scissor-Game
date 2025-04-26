@@ -4,14 +4,22 @@ A simple and interactive **Stone-Paper-Scissors** game built using **HTML, CSS, 
 
 ## 📁 Project Structure
 
-├── Images/ # Folder containing image assets 
- └── paper.png
- └── rock.png  
- └── scissor.png
-├── Paper.css # CSS file for styling the UI 
-├── Rock.html # Main HTML file for game interface 
-├── Scissor.js # JavaScript file containing game logic 
+The project is organized into the following files and folders:
 
+- **Images/**  
+  Contains all the image assets used in the game:
+  - `paper.png` — Image representing paper
+  - `rock.png` — Image representing rock
+  - `scissor.png` — Image representing scissors
+
+- **Paper.css**  
+  Responsible for the styling and design of the game interface, making it responsive and visually appealing.
+
+- **Rock.html**  
+  The main HTML file that structures the layout of the Stone-Paper-Scissors game.
+
+- **Scissor.js**  
+  Contains the JavaScript logic that drives the game, including user interaction, computer move generation, and result display.
 
 ## 🚀 How to Run the Game
 
